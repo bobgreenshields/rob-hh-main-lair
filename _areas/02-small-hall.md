@@ -8,6 +8,7 @@ player_images:
 leads_to:
   - 1
   - 3
+  - 5
 ---
 
 
