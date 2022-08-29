@@ -1,0 +1,12 @@
+- mob: a
+  area: 1
+  notes: "Lounging by the entrance"
+
+- mob: b
+  area: 5
+  notes: "Not very alert"
+
+- mob: high-priest
+  area: 12
+  notes: "Casts slow and exits through portal"
+

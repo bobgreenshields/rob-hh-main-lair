@@ -1,0 +1,18 @@
+---
+layout: area
+title: "Store"
+number: 3
+description: "Store"
+categories: area
+player_images:
+leads_to:
+  - 0
+  - 2
+  - 4
+---
+
+
+[**Wis (Perception) check**]({{ site.baseurl }}{% link party.md %})
+* DC 18 something hidden
+* DC 10 something obvious
+
