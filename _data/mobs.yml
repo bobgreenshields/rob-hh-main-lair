@@ -1,15 +1,15 @@
 a:
   pp: "9"
   loot: "15sp 25cp"
-  desc: "2 cult initiates"
+  desc: "4 cult reavers"
 
 b:
   pp: "9"
   loot: "14sp silver knife"
-  desc: "2 cult initiates"
+  desc: "2 cult reavers"
 
 high-priest:
   pp: "12"
   loot: ""
-  desc: "Deacon Dasqusti - High Priest of Khorne"
+  desc: "Za Vorgetsk - Second Priest of Khorne"
 
