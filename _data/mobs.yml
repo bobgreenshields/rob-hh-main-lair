@@ -8,7 +8,12 @@ b:
   loot: "14sp silver knife"
   desc: "2 cult reavers"
 
-high-priest:
+c:
+  pp: "9"
+  loot: "14sp silver knife"
+  desc: "priest and a cult reaver"
+
+za-vorgetsk:
   pp: "12"
   loot: ""
   desc: "Za Vorgetsk - Second Priest of Khorne"

@@ -4,7 +4,7 @@
 
 - title: "B - Wall brazier with a blue flame"
   desc: |-
-    A Watchfire spell (Arcana DC12) maintained by the priests has activated, alerting the HIGH PRIEST.
+    A Watchfire spell (Arcana DC12) maintained by the priests is activated by any non-priest entering room 9 from the stairs, alerting anyone in this room.
 
 - title: "C - Small table and 2 chairs"
   desc: |-

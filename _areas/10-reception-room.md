@@ -15,3 +15,4 @@ leads_to:
 [**Wis (Perception) check**]({{ site.baseurl }}{% link party.md %})
 * DC 10 brazier burning with a blue flame
 
+The guard has alerted the priest that someone has come upstairs and triggered the Watchfire spell.

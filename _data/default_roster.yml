@@ -6,7 +6,11 @@
   area: 5
   notes: "Not very alert"
 
-- mob: high-priest
+- mob: c
+  area: 10
+  notes: "Watching for an entrance from 9"
+
+- mob: za-vorgetsk
   area: 12
-  notes: "Casts slow and exits through portal"
+  notes: "Bleeding a sacrificial victim"
 
